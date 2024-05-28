@@ -1,0 +1,9 @@
+name: blockstatemeta-issue
+version: '${version}'
+main: io.github.pikachu920.blockstatemetaissue.BuggedPlugin
+api-version: '1.20'
+
+commands:
+  demo:
+    description: Demonstrate BlockStateMeta issue
+    usage: /demo
